@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Initializing Copilot - Jarvis",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
